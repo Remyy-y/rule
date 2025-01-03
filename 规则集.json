@@ -1,8 +1,8 @@
 {
   "version": 3,
-  "rules": [{
-      "domain_suffix": ["siliconflow.cn"],
-      "network": ["tcp", "udp"],
-      "invert": false
-    }]
+  "rules": [
+    {
+      "domain_keyword": "test"
+    }
+  ]
 }
