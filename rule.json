@@ -1,8 +1,10 @@
 {
-  "version": 3,
-  "rules": [
-    {
-      "domain_keyword": "test"
-    }
-  ]
+    "version": 3，
+    "rules": [
+        {
+            "domain_keyword": [
+                "remyy"
+            ]
+        }
+    ]
 }
